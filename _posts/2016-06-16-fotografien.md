@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-06-16T21:56:44.153Z'
-datePublished: '2016-06-16T21:56:44.814Z'
+dateModified: '2016-06-16T21:56:54.919Z'
+datePublished: '2016-06-16T21:56:55.443Z'
 title: Fotografien
 author: []
 sourcePath: _posts/2016-06-16-fotografien.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
