@@ -1,14 +1,14 @@
 layout_spectrum: 0.2182155204936862
-typography_spectrum: 0.2624862501397729
+typography_spectrum: 0.3466725922189653
 color:
-  brandStrength: 0.6048916911240667
-  lightness: 0.21937106945551932
-  saturation: 0.2335574021562934
-  rhythmicContrast: 0.9853367086034268
+  brandStrength: 0.6220795596018434
+  lightness: 0.023104609455913305
+  saturation: 0.6967163668014109
+  rhythmicContrast: 0.8013935724738985
   brandColors:
-    - '#A7304F'
-    - '#F46D8D'
-    - '#F39EB5'
-    - '#081028'
-    - '#F0CEB7'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: Evelin Timm - Journalistin
