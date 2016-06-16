@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-06-16T21:56:13.758Z'
-datePublished: '2016-06-16T21:56:14.344Z'
+dateModified: '2016-06-16T21:56:21.826Z'
+datePublished: '2016-06-16T21:56:22.306Z'
 title: Evelin Timm (B.A. Germanistik & Kunst)
 author: []
 sourcePath: _posts/2016-06-16-evelin-timm-ba-germanistik-and-kunst.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
